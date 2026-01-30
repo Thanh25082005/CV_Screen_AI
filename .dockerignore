@@ -1,0 +1,43 @@
+# GIT
+.git
+.gitignore
+
+# PYTHON
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+.env.local
+
+# NODE / FRONTEND (Ignore these in backend build)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+node_modules/
+
+# DATA & STORAGE
+uploads/
+models/
+chroma_db/
+qdrant_data/
+data/
+
+# DOCKER
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AGENT
+.agent/
+antigravity-awesome-skills/

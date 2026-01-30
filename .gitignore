@@ -61,7 +61,7 @@ models/
 # Database
 *.db
 *.sqlite3
-
+.gemini/
 
 # Frontend - Next.js
 frontend/.next/
