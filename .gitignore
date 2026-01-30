@@ -107,7 +107,7 @@ temp/
 *.bak
 *.swp
 =2.6.0
-docker-compose.yml
-Dockerfile  
-dockerfile
+# docker-compose.yml
+# Dockerfile  
+# dockerfile
 pytest.ini  
